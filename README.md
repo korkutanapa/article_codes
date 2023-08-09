@@ -1,2 +1,2 @@
 # article_codes
-the codes of the article
+The dataset is dbso60sort.xlsx.
